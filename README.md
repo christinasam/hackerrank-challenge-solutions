@@ -1,2 +1,4 @@
-# hackerrank-challenge-solutions
-Coding solutions to challenges on HackerRank: SQL, Python, Statistics
+# Solutions to Hacker Rank Challenges
+- SQL
+- Python
+- Statistics
